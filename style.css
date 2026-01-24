@@ -48,7 +48,7 @@ body {
 
 .Home {
     height: 100vh;
-    background: url('assets/images/photo1.jpg') no-repeat;
+    background: url('assets/images/photo4.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -138,10 +138,3 @@ color: #081b29;
      width: 100%;
 }
 
-/*.profil {
-    display: block;
-    margin: 0 auto;
-    border-radius: 50%;
-    width: 150PX;
-    
-}
